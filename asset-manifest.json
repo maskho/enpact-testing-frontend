@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://maskho.github.io/enpact-testing-frontend/static/css/main.0f5f634e.chunk.css",
+    "main.js": "https://maskho.github.io/enpact-testing-frontend/static/js/main.ac4259a4.chunk.js",
+    "main.js.map": "https://maskho.github.io/enpact-testing-frontend/static/js/main.ac4259a4.chunk.js.map",
+    "runtime~main.js": "https://maskho.github.io/enpact-testing-frontend/static/js/runtime~main.fc212185.js",
+    "runtime~main.js.map": "https://maskho.github.io/enpact-testing-frontend/static/js/runtime~main.fc212185.js.map",
+    "static/js/2.c6f87a8d.chunk.js": "https://maskho.github.io/enpact-testing-frontend/static/js/2.c6f87a8d.chunk.js",
+    "static/js/2.c6f87a8d.chunk.js.map": "https://maskho.github.io/enpact-testing-frontend/static/js/2.c6f87a8d.chunk.js.map",
+    "index.html": "https://maskho.github.io/enpact-testing-frontend/index.html",
+    "precache-manifest.45e9f42261dd9400473d587493d94dba.js": "https://maskho.github.io/enpact-testing-frontend/precache-manifest.45e9f42261dd9400473d587493d94dba.js",
+    "service-worker.js": "https://maskho.github.io/enpact-testing-frontend/service-worker.js",
+    "static/css/main.0f5f634e.chunk.css.map": "https://maskho.github.io/enpact-testing-frontend/static/css/main.0f5f634e.chunk.css.map"
+  }
+}
